@@ -1,0 +1,15 @@
+{
+  "name": "Node_Api1_Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ekajjj/node-api1-project",
+  "author": "Jake Johnson <jakejjohnson@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
